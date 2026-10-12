@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    transition: all 0.25s ease-out;
+    font-family: "微软雅黑", serif;
+    user-select: none;
+}
+
+body {
+    overflow-x: hidden;
+    min-height: 100vh;
+}
